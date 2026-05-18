@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "changelog": "Initial release",
-  "apkUrl": "",
-  "htmlUrl": "",
-  "updatedAt": "2026-05-17T22:13:00.865Z"
+  "version": "1.0.1",
+  "changelog": "Update",
+  "apkUrl": "https://github.com/AxMatomORF/apex-kinetic-updates/releases/download/v1.0.1/ApexKinetic.apk",
+  "htmlUrl": "https://raw.githubusercontent.com/AxMatomORF/apex-kinetic-updates/main/app/index.html",
+  "updatedAt": "2026-05-18T10:45:24.274Z"
 }
